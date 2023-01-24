@@ -13,7 +13,8 @@
 
   <div>
     <a href='https://github.com/Carlos-Eduardo-Guedes-01'>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt&count_private=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Guedes-01&show_icons=true&theme=cobalt&count_private=true" />
+      ![Carlos-Eduardo-Guedes-01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Guedes-01&show_icons=true&theme=radical)
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo-Guedes-01&layout=compact&langs_count=16&theme=cobalt" />
   </a>
 </div>
