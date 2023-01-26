@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou cursando tecnólogo em **Análise e Desenvolvimento de Sistemas**
 
-- 🌱 Atualmente estou aprendendo sobre **React e Laravel**
+- 🌱 Atualmente estou aprendendo sobre **React**
 
 - 🤝 Estou a procura de uma oportunidade de **primeiro emprego**
 
