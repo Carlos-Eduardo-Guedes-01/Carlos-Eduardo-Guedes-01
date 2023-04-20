@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou cursando tecnólogo em **Análise e Desenvolvimento de Sistemas**
 
-- 🌱 Atualmente estou aprendendo sobre **React**
+- 🌱 Atualmente estou aprendendo sobre **Flutter**
 
 - 🤝 Estou a procura de uma oportunidade de **primeiro emprego**
 
@@ -25,17 +25,17 @@
 
   **Linguagens de Programação**
 
-  <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="PHP" title="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png">|<img title="JAVA" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-  |--|--|--|--|--|
+  <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="PHP" title="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png">|<img title="JAVA" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Dart" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png">
+  |--|--|--|--|--|--|
 
   **Programação Front-End**
   
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>|<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>|<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png">| <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>|<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 |--|--|--|--|
     
   **Biblioteca e Frameworks**
 
-  <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">
+  <img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">
   |--|--|--|
 
 
