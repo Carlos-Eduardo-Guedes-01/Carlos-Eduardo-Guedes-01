@@ -7,9 +7,9 @@
 
 - 🤝 Estou a procura de uma oportunidade de **primeiro emprego**
 
-- 💬 Me pergunte sobre **HTML, CSS, Python, PHP, SQL, Java, React, Django, Django REST Framework**
+- 💬 Me pergunte sobre **HTML, CSS, Python, PHP, SQL, Java, React, Django, Django REST Framework, Dart, Flutter**
 
-- 📄 Tenho experiência acadêmica em HTML, CSS, Python, PHP, SQL, Java, React, Django, Django REST Framework
+- 📄 Tenho experiência acadêmica em HTML, CSS, Python, PHP, SQL, Java, React, Django, Django REST Framework, Dart, Flutter
 
  <div>
     <a href='https://github.com/Carlos-Eduardo-Guedes-01'>
