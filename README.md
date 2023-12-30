@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Carlos Eduardo Guedes</h1>
-<h3 align="center">Apaixonado por programação Back-End</h3>
+<h3 align="center">Apaixonado por programação Full Stack</h3>
 
 - 🔭 Atualmente estou cursando tecnólogo em **Análise e Desenvolvimento de Sistemas**
 
