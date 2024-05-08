@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou Carlos Eduardo Guedes</h1>
 <h3 align="center">Apaixonado por programação Full Stack</h3>
 
-- 🔭 Atualmente estou cursando tecnólogo em **Análise e Desenvolvimento de Sistemas**
+- 🔭 Formado em **Análise e Desenvolvimento de Sistemas**
 
 - 🌱 Atualmente estou aprendendo sobre **JAVA (Spring Boot)**
 
-- 🤝 Estou a procura de uma oportunidade de **primeiro emprego**
+- 🤝 Estou a procura de uma oportunidade de **oportunidade de evoluir para uma carreira profissional com programação**
 
 - 💬 Me pergunte sobre **HTML, CSS, Python, PHP, SQL, Java, React, Django, Django REST Framework, Dart, Flutter**
 
