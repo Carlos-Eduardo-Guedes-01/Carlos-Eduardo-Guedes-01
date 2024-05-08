@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou cursando tecnólogo em **Análise e Desenvolvimento de Sistemas**
 
-- 🌱 Atualmente estou aprendendo sobre **Flutter**
+- 🌱 Atualmente estou aprendendo sobre **Spring Boot**
 
 - 🤝 Estou a procura de uma oportunidade de **primeiro emprego**
 
